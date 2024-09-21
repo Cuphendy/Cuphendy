@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main(void) {
+  printf("Nombre: Ciro\n");
+  printf("Segundo Nombre: Angel\n");
+  printf("Apellido Paterno: Rivera\n" );
+  printf("Apellido Materno: C.\n");
+ 
+  //Cuphendy_XD
+  return 0;
+}
