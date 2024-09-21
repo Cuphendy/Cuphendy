@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 int main(void) {
-  printf("Nombre: Ciro\n");
-  printf("Segundo Nombre: Angel\n");
-  printf("Apellido Paterno: Rivera\n" );
-  printf("Apellido Materno: C.\n");
+  //it is recomended that you change the X,Y,Z, and W letters to your actual name
+  printf("Nombre: X\n");
+  printf("Segundo Nombre: Y\n");
+  printf("Apellido Paterno: Z\n" );
+  printf("Apellido Materno: W\n");
  
   //Cuphendy_XD
   return 0;
