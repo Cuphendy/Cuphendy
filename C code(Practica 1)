@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main(void) {
+
+  printf("n\n");
+  printf("nn\n");
+  printf("nnn\n");
+  printf("nnnn\n");
+  printf("nnn\n");
+  printf("nn\n");
+  printf("n\n");
+  return 0;
+//@Cuphendy_XD
+}
